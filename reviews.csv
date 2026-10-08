@@ -1,0 +1,16 @@
+review,sentiment
+"I love this product, it is amazing",positive
+"The product is excellent and very useful",positive
+"Really happy with my purchase",positive
+"Great quality and fast delivery",positive
+"I am very satisfied with this product",positive
+"The product is okay, nothing special",neutral
+"It is an average product",neutral
+"Delivery was normal and the quality is okay",neutral
+"The product works but could be better",neutral
+"Not bad but not impressive",neutral
+"I hate this product, it is terrible",negative
+"Very poor quality and bad experience",negative
+"I am disappointed with my purchase",negative
+"The product broke after one day",negative
+"Terrible service and very slow delivery",negative
